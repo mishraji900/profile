@@ -26,7 +26,7 @@ const page = (props: Props) => {
                         
                         <CardItem translateZ="100" className="w-full mt-4">
                             <img
-                                src="/mayank.jpg"
+                                src="/profile.jpg"
                                 height="6000"
                                 width="4000"
                                 className="h-72 w-72 object-cover rounded-xl group-hover/card:shadow-xl"
