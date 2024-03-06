@@ -1,5 +1,4 @@
 
-import { Landing } from "./Landing/page";
 import Hero from "./Home/page"
 import Lamp from "./WhoAmI/page";
 import SCE from "./SC/page";
