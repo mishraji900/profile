@@ -25,7 +25,7 @@ const page = (props: Props) => {
                     <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1]  w-fit h-auto rounded-xl p-6 border  ">
                         
                         <CardItem translateZ="100" className="w-full mt-4">
-                            <Image
+                            <img
                                 src="/mayank.jpg"
                                 height="6000"
                                 width="4000"
